@@ -1,0 +1,9 @@
+C:\Users\lucva\source\repos\saucepicker\saucepicker\bin\Release\saucepicker.exe.config
+C:\Users\lucva\source\repos\saucepicker\saucepicker\bin\Release\saucepicker.exe
+C:\Users\lucva\source\repos\saucepicker\saucepicker\bin\Release\saucepicker.pdb
+C:\Users\lucva\source\repos\saucepicker\saucepicker\obj\Release\saucepicker.Form1.resources
+C:\Users\lucva\source\repos\saucepicker\saucepicker\obj\Release\saucepicker.Properties.Resources.resources
+C:\Users\lucva\source\repos\saucepicker\saucepicker\obj\Release\saucepicker.csproj.GenerateResource.cache
+C:\Users\lucva\source\repos\saucepicker\saucepicker\obj\Release\saucepicker.exe
+C:\Users\lucva\source\repos\saucepicker\saucepicker\obj\Release\saucepicker.pdb
+C:\Users\lucva\source\repos\saucepicker\saucepicker\obj\Release\saucepicker.csprojAssemblyReference.cache
